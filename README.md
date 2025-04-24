@@ -106,28 +106,28 @@ The following environment variables can be configured in your `.env` file:
 
 ## Features Demonstrated
 
-1. **Basic Agent Configuration (v1)**
+1. **Basic Agent Configuration**
    - Instructions and model settings
    - Simple agent execution
 
-2. **Structured Output (v2)**
+2. **Structured Output**
    - Using Pydantic models for structured responses
    - Travel planning with organized information
 
-3. **Tool Calls (v3)**
+3. **Tool Calls**
    - Custom tools for retrieving external data
    - Weather forecasting integration
 
-4. **Agent Handoffs (v4)**
+4. **Agent Handoffs**
    - Specialized agents for flights and hotels
    - Delegation to domain-specific experts
 
-5. **Guardrails and Context (v5)**
+5. **Guardrails and Context**
    - Input validation with budget guardrails
    - User context for personalized recommendations
    - Preference-based sorting of results
 
-6. **Chat Interface (v6)**
+6. **Chat Interface**
    - Conversation history and context
    - User preference management
    - Formatted responses for different output types
